@@ -1,5 +1,7 @@
 package com.codechef.problems.beginner;
 
+import java.util.Scanner;
+
 public class LCH15JAB {
 
 	/*
