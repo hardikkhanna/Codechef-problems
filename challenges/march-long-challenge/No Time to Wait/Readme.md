@@ -20,11 +20,11 @@ Find out whether Chef can use one of the available time zones to solve the probl
     * You may print each character of each string in uppercase or lowercase (for example, the strings "yEs", "yes", "Yes" and "YES" will all be treated as identical).
 <hr>
 
-Example Input 
-2 5 3
-1 2
-Example Output 
+<strong>Example Input </strong>
+2 5 3<br>
+1 2<br>
+<strong>Example Output </strong>
 YES
-
-Explanation
+<br>
+<strong>Explanation</strong>
 Chef already has 3 hours left. He can go to the 2-nd time zone, which is 2 hours back in time. Then he has a total of 3+2=5 hours, which is sufficient to solve the problem.
